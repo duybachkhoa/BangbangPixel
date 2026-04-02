@@ -1,14 +1,7 @@
 {
-  "WELCOME2026": {
-    "reward": {
-      "xu_khoa": 1000,
-      "xu": 50
-    }
-  },
-  "VIP999": {
-    "reward": {
-      "xu_khoa": 5000,
-      "xu": 200
-    }
-  }
+  "WELCOME2026": [
+    { "item_id": "coin", "amount": 10000 },
+	  { "item_id": "nano", "amount": 2 },
+	  { "item_id": "chip", "amount": 10 }
+  ]
 }
